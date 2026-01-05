@@ -27,8 +27,7 @@ This project does **not include mobile media queries**.
 The layout is created using **Flexbox only** and is optimized mainly for **desktop screens**.
 
 ## 🚀 Live Demo
-🔗 *Add your GitHub Pages link here*  
-(Example: https://username.github.io/salt-and-pepper)
+- https://hafsaimran12.github.io/Salt-and-Pepper/
 
 ## 📂 Project Status
 This project is created for **learning and practice purposes**.  
